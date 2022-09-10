@@ -1,0 +1,65 @@
+.gradient-custom {
+    background-color: #04DBC0;}
+
+.prof
+{
+    background-color: #f4f5f7;
+}
+
+.prof-1
+{
+   border-radius: .5rem;
+}
+
+.prof-2
+{
+
+    border-top-left-radius: .5rem;
+    border-bottom-left-radius: .5rem;
+}
+
+.edit-inp
+{
+    width: 100%;
+    height: 40px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #000;
+}
+
+.prof-name
+{
+    padding-top: 50px;
+}
+
+.prof-sub
+{
+    border: none;
+    height: 50px;
+    margin-top: 10px;
+    background-color: #04DBC0;
+    color: white;
+    letter-spacing: 8px;
+    border-radius: 5px;
+    transition: 0.3s;
+    font-size: 20px;
+}
+
+
+.prof-sub:hover
+{
+    transition: 0.3s;
+    background-color: #059b87;
+    letter-spacing: 15px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
